@@ -1,0 +1,23 @@
+Main Weekly Meeting
+
+Present: Miwako Ito, Jeff Montano, Max Steiner
+
+- "Homework" section added to Gantt chart specifically for milestones given by Chad which are graded.
+- Gantt chart completed to turn in this upcoming Wednesday. May be updated later on.
+- Individual literature reviews for technology options.
+- Economic analyses tied to due dates for Level 1 and Level 2 simulations. 
+- Setting personal due date for final report as two days before class due date. 
+
+Literature Review Exchange
+1. Miwako - Presure-Swing Adsorption (nitrogen production)
+2. Jeff - Alkaline (hydrogen production)
+3. Max - Reactive Adsorption (ammonia production)
+
+Notes:
+- Jeff needs to figure out how to model his process in ASPEN since it includes an ionic reaction. 
+- Max needs to consider how many reactors to use and what size they will be. Two half-size reactors working full time or two full-size reactors working half-time?
+- We all need to consider how the oxygen could possibly be integrated as a fuel source for the reactor.
+
+Questions:
+- For the economic analysis are we selling the ammonia or using it ourselves for production of something else?
+- Can we use experimental results for a fixed stoichiometric yield (or time-based) rather than kinetics in ASPEN?
