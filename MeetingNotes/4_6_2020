@@ -2,6 +2,7 @@ Main Weekly Meeting
 
 Present: Miwako Ito, Jeff Montano, Max Steiner
 
+Minutes:
 - "Homework" section added to Gantt chart specifically for milestones given by Chad which are graded.
 - Gantt chart completed to turn in this upcoming Wednesday. May be updated later on.
 - Individual literature reviews for technology options.
@@ -13,12 +14,15 @@ Literature Review Exchange
 2. Jeff - Alkaline (hydrogen production)
 3. Max - Reactive Adsorption (ammonia production)
 
-Notes:
+Future Plans:
 - Jeff needs to figure out how to model his process in ASPEN since it includes an ionic reaction. 
 - Max needs to consider how many reactors to use and what size they will be. Two half-size reactors working full time or two full-size reactors working half-time?
 - We all need to consider how the oxygen could possibly be integrated as a fuel source for the reactor.
 - General heat intgration for the reactive step.
 
 Questions:
-- For the economic analysis are we selling the ammonia or using it ourselves for production of something else?
+- For the economic analysis are we selling the ammonia or using it ourselves for production of something else?</br>
+	Ammonia will be sold as a product on its own.
 - Can we use experimental results for a fixed stoichiometric yield (or time-based) rather than kinetics in ASPEN?
+John wrote down the quesion - waitinf for answer.</br>
+	We should try to use a L2 reactor if we can, be it's okay to use L1 if we have tried and failed with a L1.
